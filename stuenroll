@@ -1,0 +1,23 @@
+**Student Enrollment Form**
+
+**Input Fields:**
+
+* Roll No. (Primary Key)
+* Full Name
+* Class
+* Birth Date
+* Address
+* Enrollment Date
+
+**Instructions:**
+
+Please enter the following information about the student:
+
+* Roll No.: The student's unique identification number.
+* Full Name: The student's full name.
+* Class: The student's current class.
+* Birth Date: The student's date of birth.
+* Address: The student's address.
+* Enrollment Date: The date the student enrolled in the school.
+
+**Click "Submit" to save the form.**
